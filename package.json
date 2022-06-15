@@ -1,0 +1,27 @@
+{
+    "title": "maganets",
+    "name": "maganets",
+    "version": "1.0.0",
+    "scripts": {
+        "build:assets": "node scripts/build-assets.js",
+        "build:pug": "node scripts/build-pug.js",
+        "build:scripts": "node scripts/build-scripts.js",
+        "build:scss": "node scripts/build-scss.js",
+        "clean": "node scripts/clean.js",
+        "start:debug": "npm run build && node scripts/start-debug.js"
+    },
+    "description": "Teste MagaNets",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+    ],
+    "homepage": "https://run.mocky.io/v3/66063904-d43c-49ed-9329-d69ad44b885e",
+    "bugs": {
+        "url": "https://run.mocky.io/v3/66063904-d43c-49ed-9329-d69ad44b885e",
+        
+    }
+    
+}
